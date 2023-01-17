@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Kanit, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.searchLink{
+  color: black; 
+  margin-top: 10px;
+}
+.searchLink a {
+  color: black; 
+}
+.searchOffCanvas{
+  color: white; 
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.searchOffCanvas a {
+  color: white; 
+}
